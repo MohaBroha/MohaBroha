@@ -46,11 +46,7 @@ I build modern web applications with Angular, TypeScript, Django REST Framework,
 • Cloudflare DNS & SSL
 • Git & GitHub Workflow
 
-## 🌱 Currently Learning
-
-Docker • Software Architecture • Clean Code • Scalable Fullstack Development
-
 ## 📫 Connect
 
 Email: mohabroha@mail.de
-LinkedIn: (https://www.linkedin.com/in/moha-brohani-aa34233b0/)
+LinkedIn: https://www.linkedin.com/in/moha-brohani-aa34233b0/
