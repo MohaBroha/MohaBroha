@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moha Broha
+# 👋 Hi, I'm Moha Brohani
 
 ### Fullstack Developer in Training
 
