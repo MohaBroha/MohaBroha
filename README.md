@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moha Brohani
 
-### Fullstack Developer in Training
+### Fullstack Developer
 
 I build modern web applications with Angular, TypeScript, Django REST Framework, and Python while continuously expanding my skills in frontend, backend, and deployment.
 
@@ -10,7 +10,7 @@ I build modern web applications with Angular, TypeScript, Django REST Framework,
   <img src="https://skillicons.dev/icons?i=angular,ts,js,python,django,postgres,html,sass,git,linux,docker,nginx,cloudflare" />
 </p>
 
-## 💡 Core Knowledge
+## 💡 Core Skills
 
 - REST API Development
 - JWT Authentication
