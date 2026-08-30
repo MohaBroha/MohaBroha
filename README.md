@@ -22,41 +22,36 @@ I build modern web applications with Angular, TypeScript, Django REST Framework,
 - Deployment with Gunicorn & Nginx
 
 ## 🚀 Featured Projects
-• Coderr
 
+### • Coderr
 Angular • Django REST Framework • PostgreSQL
-Live Demo: https://coderr.mohabroha.dev/
-GitHub: https://github.com/MohaBroha/coderr-project
 
-• Quizly
+**Live Demo:** [Coderr](https://coderr.mohabroha.dev/) · **GitHub:** [Repository](https://github.com/MohaBroha/coderr-project)
 
+### • Quizly
 Angular • Django REST Framework • AI Integration
-Live Demo: https://quizly.mohabroha.dev/
-GitHub: https://github.com/MohaBroha/Quizly-project
 
-• Join
+**Live Demo:** [Quizly](https://quizly.mohabroha.dev/) · **GitHub:** [Repository](https://github.com/MohaBroha/Quizly-project)
 
+### • Join
 Angular • TypeScript • Supabase
-Live Demo: https://join.mohabroha.dev/#/login
-GitHub: https://github.com/MohaBroha/Join
 
-• KanMind
+**Live Demo:** [Join](https://join.mohabroha.dev/#/login) · **GitHub:** [Repository](https://github.com/MohaBroha/Join)
 
+### • KanMind
 HTML • CSS • JavaScript • REST API
-Live Demo: https://kanmind.mohabroha.dev/pages/auth/login.html
-GitHub: https://github.com/MohaBroha/kanmind-project
 
-• El Pollo Loco
+**Live Demo:** [KanMind](https://kanmind.mohabroha.dev/pages/auth/login.html) · **GitHub:** [Repository](https://github.com/MohaBroha/kanmind-project)
 
+### • El Pollo Loco
 JavaScript • OOP • Canvas
-Live Demo: https://elpollo.mohabroha.dev/
-GitHub: https://github.com/MohaBroha/El-Pollo-Loco-Project
 
-• Portfolio
+**Live Demo:** [El Pollo Loco](https://elpollo.mohabroha.dev/) · **GitHub:** [Repository](https://github.com/MohaBroha/El-Pollo-Loco-Project)
 
+### • Portfolio
 Angular • TypeScript • Responsive Design
-Live Demo: https://mohabroha.dev/
-GitHub: https://github.com/MohaBroha/portfolio-angular
+
+**Live Demo:** [Portfolio](https://mohabroha.dev/) · **GitHub:** [Repository](https://github.com/MohaBroha/portfolio-angular)
 
 ## 💼 Experience
 
