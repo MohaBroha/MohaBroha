@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./github-hero-orbit-slow-wide.gif
-" alt="Moha Brohani - Junior Fullstack Developer">
+  <img src="./github-hero-orbit-slow-wide.gif" alt="Moha Brohani - Junior Fullstack Developer">
 </p>
 
 ### Fullstack Developer
