@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-hero.gif" alt="Moha Brohani - Junior Fullstack Developer">
+  <img src="./github-hero-only.png" alt="Moha Brohani - Junior Fullstack Developer">
 </p>
 
 ### Fullstack Developer
