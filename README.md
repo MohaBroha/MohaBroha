@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Moha Brohani
+<p align="center">
+  <img src="./assets/github-hero.png" alt="Moha Brohani - Junior Fullstack Developer">
+</p>
 
 ### Fullstack Developer
 
